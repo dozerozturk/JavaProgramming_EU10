@@ -81,15 +81,15 @@ Animal Task:
 
 
 
-   Dog extends Animal implemnts Plyable, Swimmable
+   Dog extends Animal implements Plyable, Swimmable
 
-   Cat extends Animal implemnts Plyable
+   Cat extends Animal implements Plyable
 
-   Cow extends Animal implemnts Plyable
+   Cow extends Animal implements Plyable
 
-   Horse extends Animal implemnts Plyable
+   Horse extends Animal implements Plyable
 
-   Parrot extends Animal implemnts Plyable, Flyable
+   Parrot extends Animal implements Plyable, Flyable
 
    Tiger extends Animal implements Wild
 
@@ -99,7 +99,7 @@ Animal Task:
 
    Falcon extends Animal implements Wild, Flyable
 
-   Dolphin extends Animal implemnts Plyable, Swimmable
+   Dolphin extends Animal implements Plyable, Swimmable
 
    Shark extends Animal implements Wild, Swimmable
 
@@ -115,7 +115,7 @@ Person implements Swimmable, Plyable
 
 Boat implements Swimmable
 
-Airplane implemnts Flyable
+Airplane implements Flyable
 
 CydeoCar implements Swimmable, Flyable
 
