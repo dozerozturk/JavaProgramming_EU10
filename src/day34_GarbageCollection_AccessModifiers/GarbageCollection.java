@@ -39,7 +39,7 @@ public class GarbageCollection {
         System.out.println(dog1);
 
         String language = "Python";
-        language    =   "Java";
+               language = "Java";
 
         System.out.println(language);
 
