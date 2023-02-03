@@ -12,6 +12,7 @@ public class CydeoStudent {
     public static String programmingLanguage;
     public static String secretCode;
 
+
     public CydeoStudent(String name, char gender, int age, int batchNumber, int groupNumber, String fieldOfStudy) {
         this.name = name;
         this.gender = gender;
